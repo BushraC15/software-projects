@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple HTML Example</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a basic HTML example.</p>
+
+    <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+
+    <button onclick="alert('You clicked the button!')">Click Me</button>
+
+    <ol>
+        <li>Learn HTML</li>
+        <li>Practice CSS</li>
+        <li>Master JavaScript</li>
+    </ol>
+</body>
+</html>
